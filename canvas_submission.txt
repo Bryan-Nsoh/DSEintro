@@ -1,0 +1,7 @@
+Repository link: https://github.com/Bryan-Nsoh/DSEintro
+
+Notes:
+- Repository is public; no collaborator invite required.
+- Script included: profile.ps1 (PowerShell)
+- README contains name, personal detail (fun fact), and favorite classes.
+
