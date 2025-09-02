@@ -64,6 +64,7 @@ function New-StudyPlan {
 $profile = [PSCustomObject]@{
     Name           = 'Bryan Nsoh'
     FunFact        = 'I had 2 sets of wisdom teeth.'
+    Background     = 'Interested in building data tools and AI-assisted analysis; enjoys creative writing and computer systems.'
     FavoriteClasses= $Classes
 }
 
@@ -84,4 +85,3 @@ Write-Host "`n=== Study Plan ===" -ForegroundColor Cyan
 New-StudyPlan -Classes $Classes -Days $Days -Minutes $StudyMinutesPerDay -Seed $Seed | Format-Table -AutoSize | Out-Host
 
 Write-Host "`nTip: Run with -Seed 42 for a repeatable plan." -ForegroundColor DarkGray
-

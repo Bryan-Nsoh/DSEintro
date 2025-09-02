@@ -4,7 +4,7 @@
 
 - Name: Bryan Nsoh
 - Personal detail: Fun fact — I had 2 sets of wisdom teeth.
-- Favorite classes (pre‑UTK):
+- Favorite classes (pre-UTK):
   - Creative Writing: Fiction
   - Creative Writing: Comedy
   - Computer Architecture
@@ -23,3 +23,4 @@ Example:
 ```
 powershell -File .\profile.ps1 -Days 3 -StudyMinutesPerDay 40 -Seed 7
 ```
+
