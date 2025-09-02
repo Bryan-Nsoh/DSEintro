@@ -62,9 +62,9 @@ function New-StudyPlan {
 
 # Profile object
 $profile = [PSCustomObject]@{
-    Name          = 'Bryan Nsoh'
-    FunFact       = 'I had 2 sets of wisdom teeth.'
-    FavoriteClass = $Classes
+    Name           = 'Bryan Nsoh'
+    FunFact        = 'I had 2 sets of wisdom teeth.'
+    FavoriteClasses= $Classes
 }
 
 Write-Host '=== Virtual Index Card ===' -ForegroundColor Cyan
